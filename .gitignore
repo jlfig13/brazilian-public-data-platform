@@ -1,0 +1,9 @@
+# Extração e Tabelas curadas nunca são versionadas (ADR-0002).
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.egg-info/
